@@ -33,6 +33,10 @@ This will take the file clear.sql and obfuscate it to clear_obfs.sql in the same
 
 This will take the file /home/gr/clear.sql and obfuscate it to /shared/localdb.sql in the same directory.
 
+## How to customise
+Edit tables_definition.rb to match the tables and columns you which to obfuscate.
+
+See (http://www.rubydoc.info/gems/strike/0.4.0) for options
 
 ### More Info
 More information can be found at my blog (https://glynrob.com/database/strike-obfuscate-mysql-database/)
