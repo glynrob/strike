@@ -39,7 +39,7 @@ Edit tables_definition.rb to match the tables and columns you which to obfuscate
 See (http://www.rubydoc.info/gems/strike/0.4.0) for options
 
 ## Note
-Dont forget when you expert your mysqldump that you use the -c option. Otherwise strike will not work
+Dont forget when you export your mysqldump that you use the -c option. Otherwise strike will not work
 
 ### More Info
 More information can be found at my blog (https://glynrob.com/database/strike-obfuscate-mysql-database/)
